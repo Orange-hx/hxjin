@@ -1,0 +1,12 @@
+{
+    "name"         : "hxjin",
+    "url"          : "https://github.com/Orange-hx/hxjin",
+    "license"      : "Public",
+    "tags"         : [ "lua", "game", "externs", "jin", "love2d" ],
+    "description"  : "Haxe externs for Jin!",
+    "version"      : "1.0.0",
+    "releasenote"  : "Beginning of Orange.hx stuff!",
+    "classPath"    : "src",
+    "contributors" : [ "Rabios" ],
+    "dependencies" : {}
+}
